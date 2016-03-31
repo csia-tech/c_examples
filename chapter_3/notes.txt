@@ -1,0 +1,16 @@
+Write a program that will ask the user to enter a person\u2019s age, their weight, and their birth month.  Your program will compare the entered values to the following and print the appropriate responses.  Be sure to use modules.
+
+The Secret Answers The Comparison The Printed Response
+
+age = 25 
+If the guessed age is less than or equal to 25
+Congratulations, the age is 25 or less
+
+weight = 128 
+If the guessed weight is greater than or equal to 128
+Congratulations, the weight is 128 or more
+
+birthMonth = April 
+If the guessed birth month is equal to April
+Congratulations, the  birth month is April
+
